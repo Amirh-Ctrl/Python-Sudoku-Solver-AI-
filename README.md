@@ -99,7 +99,3 @@ If a solution exists, the solved board will be printed:
 If the puzzle is unsolvable, it will print:
 
 This Sudoku puzzle has no solution.
-
-#### 📝 Example Input
-
-You can copy and paste the following hard puzzle directly into your terminal:
